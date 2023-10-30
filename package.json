@@ -1,0 +1,22 @@
+{
+  "name": "ts-playwright-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cucumber": "cucumber-js"
+  },
+  "author": "Leonid Losyukov",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "@playwright/test": "^1.39.0",
+    "allure-commandline": "^2.24.1",
+    "allure-cucumberjs": "^2.9.2",
+    "allure-js-commons": "^2.9.2",
+    "playwright": "^1.39.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
